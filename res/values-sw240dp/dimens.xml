@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 字体大小 -->
+    <dimen name="text_size_small_2">8sp</dimen>
+    <dimen name="text_size_small">9.3sp</dimen>
+    <dimen name="text_size_normal">10.7sp</dimen>
+    <dimen name="text_size_big">12sp</dimen>
+    <dimen name="text_size_big_2">13.3sp</dimen>
+
+    <!-- 布局左右空白距离 -->
+    <dimen name="content_layout_left_right">10dp</dimen>
+    <dimen name="half_content_layout_left_right">5dp</dimen>
+
+    <!-- 标题布局相关 -->
+    <dimen name="title_left_right">6.7dp</dimen>
+    <dimen name="title_height">33.3dp</dimen>
+
+    <!-- CheckBox与字的间隔 -->
+    <dimen name="custom_checkbox_text_space">3.3dp</dimen>
+
+    <!-- 等待框相关 -->
+    <dimen name="layout_waiting_dialog_size">40dp</dimen>
+    <dimen name="layout_waiting_icon_size">20dp</dimen>
+    <dimen name="layout_waiting_icon_big_size">26.7dp</dimen>
+
+    <!-- 输入框EditText和标签TextView里面的Padding距离 -->
+    <dimen name="content_padding">6.7dp</dimen>
+    <dimen name="twice_content_padding">13.3dp</dimen>
+    <dimen name="three_times_content_padding">20dp</dimen>
+    <dimen name="half_content_padding">3.3dp</dimen>
+    <dimen name="content_line_spacing">3.3dp</dimen>
+
+    <!-- 按钮圆角半径 -->
+    <dimen name="corner_radius_small">3.3dp</dimen>
+    <dimen name="corner_radius_normal">6.7dp</dimen>
+
+    <!-- 线高 -->
+    <dimen name="divider_line_height">0.3dp</dimen>
+    <dimen name="divider_line_height_big">0.7dp</dimen>
+
+    <!-- 所有ListView里面Item的圆形图标的大小 -->
+    <dimen name="list_item_icon_size">26.7dp</dimen>
+    <dimen name="half_list_item_icon_size">13.3dp</dimen>
+    <dimen name="list_item_icon_size_with_padding">40dp</dimen>
+
+    <!-- 登录、注册、忘记密码模块 -->
+    <dimen name="info_layout_left_width">53.3dp</dimen>
+    <dimen name="get_code_height">20dp</dimen>
+    <dimen name="info_layout_space_small">13.3dp</dimen>
+    <dimen name="info_layout_space_big">20dp</dimen>
+    <dimen name="info_head_size">53.3dp</dimen>
+
+    <!-- LineGraphView -->
+    <dimen name="line_graph_view_title_size">13.3sp</dimen>
+    <dimen name="line_graph_view_sub_title_size">10sp</dimen>
+    <dimen name="line_graph_view_back_line_width">0.7dp</dimen>
+    <dimen name="line_graph_view_column_tip_width">20dp</dimen>
+    <dimen name="line_graph_view_row_tip_size">12sp</dimen>
+    <dimen name="line_graph_view_column_tip_size">9.3sp</dimen>
+    <dimen name="line_graph_view_point_radius">2.7dp</dimen>
+    <dimen name="line_graph_view_selected_point_radius">4.7dp</dimen>
+    <dimen name="line_graph_view_line_width">0.7dp</dimen>
+    <dimen name="line_graph_view_value_size">10sp</dimen>
+    <dimen name="line_graph_view_selected_value_size">14.7sp</dimen>
+    <dimen name="line_graph_view_height">186.7dp</dimen>
+    <dimen name="line_graph_view_table_right">12dp</dimen>
+
+    <!-- SelectIdentityActivity -->
+    <dimen name="select_identity_title_top_bottom">60dp</dimen>
+    <dimen name="select_identity_button_top_bottom">33.3dp</dimen>
+    <dimen name="select_identity_head_size">53.3dp</dimen>
+
+    <!-- MainActivity -->
+    <dimen name="main_tab_bar_height">33.3dp</dimen>
+    <dimen name="main_tab_height">26.7dp</dimen>
+
+    <!-- unread -->
+    <dimen name="unread_text_size">6.7dp</dimen>
+    <dimen name="unread_size">12dp</dimen>
+    <dimen name="unread_top">3.3dp</dimen>
+    <dimen name="unread_left">-3.3dp</dimen>
+    <dimen name="tab_group_unread_text_size">5.3dp</dimen>
+    <dimen name="tab_group_unread_size">10dp</dimen>
+    <dimen name="tab_group_unread_left">-6.7dp</dimen>
+
+    <!-- HomeFragment -->
+    <dimen name="home_head_size">53.3dp</dimen>
+    <dimen name="home_user_info_vertical_space">6.7dp</dimen>
+    <dimen name="home_user_info_vertical_space_small">3.3dp</dimen>
+    <dimen name="home_assist_line_top_bottom">5.3dp</dimen>
+    <dimen name="home_option_space">3.3dp</dimen>
+    <dimen name="home_option_top_bottom">6.7dp</dimen>
+    <dimen name="home_head_border_width">1.3dp</dimen>
+    <dimen name="home_dot_size">6dp</dimen>
+    <dimen name="home_dot_top">6.7dp</dimen>
+    <dimen name="home_dot_right">10dp</dimen>
+
+    <!-- GroupFragment -->
+    <dimen name="group_head_size">53.3dp</dimen>
+    <dimen name="group_user_info_vertical_space">6.7dp</dimen>
+    <dimen name="group_user_info_vertical_space_small">3.3dp</dimen>
+    <dimen name="group_assist_text_padding">1.3dp</dimen>
+    <dimen name="group_assist_layout_padding">5.3dp</dimen>
+    <dimen name="group_option_space">3.3dp</dimen>
+    <dimen name="group_option_top_bottom">6.7dp</dimen>
+
+    <!-- CourseActivity -->
+    <dimen name="course_grid_view_width">45.3dp</dimen>
+    <dimen name="course_grid_view_spacing">0.7dp</dimen>
+
+    <!-- CheckHomeworks -->
+    <dimen name="check_homeworks_group_direction_icon_width">13.3dp</dimen>
+    <dimen name="check_homeworks_group_subject_icon_size">33.3dp</dimen>
+    <dimen name="check_homeworks_child_divider_left">46.7dp</dimen>
+
+    <!-- CheckGrades -->
+    <dimen name="check_grades_divider_height">3.3dp</dimen>
+
+    <!-- PublishGradeDetail -->
+    <dimen name="publish_grade_detail_tip_content_space">6.7dp</dimen>
+    <dimen name="publish_grade_detail_type_options_width">66.7dp</dimen>
+    <dimen name="publish_grade_detail_type_options_horizontal_spacing">3.3dp</dimen>
+
+    <!-- PublishGrading -->
+    <dimen name="item_publish_grading_but_width">40dp</dimen>
+    <dimen name="item_publish_grading_but_height">20dp</dimen>
+
+    <!-- PublishGrades -->
+    <dimen name="item_publish_grades_but_width">40dp</dimen>
+    <dimen name="item_publish_grades_but_height">20dp</dimen>
+
+    <!-- PublishGradingDetail -->
+    <dimen name="publish_grading_detail_tip_content_space">6.7dp</dimen>
+
+    <!-- PublishHomeworks -->
+    <dimen name="publish_homeworks_today_subject_icon_size">33.3dp</dimen>
+    <dimen name="item_publish_homeworks_subject_icon_size">33.3dp</dimen>
+
+    <!-- PublishHomeworkDetail -->
+    <dimen name="publish_homework_detail_tip_content_space">6.7dp</dimen>
+    <dimen name="publish_homework_detail_options_spacing">3.3dp</dimen>
+    <dimen name="publish_homework_detail_subject_options_width">53.3dp</dimen>
+    <dimen name="publish_homework_detail_class_options_width">66.7dp</dimen>
+    <dimen name="publish_homework_detail_type_options_width">66.7dp</dimen>
+    <dimen name="publish_homework_detail_pictures_width">40dp</dimen>
+
+    <!-- SelectSubjectDialog -->
+    <dimen name="select_subject_dialog_width">53.3dp</dimen>
+    <dimen name="select_subject_dialog_space">1.3dp</dimen>
+
+    <!-- GradesDetailDialog -->
+    <dimen name="grades_detail_dialog_width">166.7dp</dimen>
+
+    <!-- 更多弹出框 -->
+    <dimen name="more_dialog_width">86.7dp</dimen>
+    <dimen name="more_offset_y">0.3dp</dimen>
+    <dimen name="item_more_icon_size">18.7dp</dimen>
+
+    <!-- CircleProgressView -->
+    <dimen name="circle_progress_view_background_border_width">4dp</dimen>
+    <dimen name="circle_progress_view_foreground_border_width">5.3dp</dimen>
+
+    <!-- RankingLineView -->
+    <dimen name="ranking_line_view_coordinate_line_width">0.7dp</dimen>
+    <dimen name="ranking_line_view_progress_width">8dp</dimen>
+    <dimen name="ranking_line_view_progress_top_bottom">8dp</dimen>
+    <dimen name="ranking_line_view_y_title_width">26.7dp</dimen>
+    <dimen name="ranking_line_view_y_icon_size">20dp</dimen>
+    <dimen name="ranking_line_view_y_title_size">8sp</dimen>
+    <dimen name="ranking_line_view_x_title_size">12sp</dimen>
+
+    <!-- GroupFragment -->
+    <dimen name="group_button_padding_top">5.3dp</dimen>
+    <dimen name="group_button_padding_bottom">8.7dp</dimen>
+    <dimen name="group_button_top_bottom_distance">3.3dp</dimen>
+    <dimen name="group_button_width">80dp</dimen>
+    <dimen name="group_button_space">13.3dp</dimen>
+    <dimen name="item_group_unread_size">13.3dp</dimen>
+    <dimen name="item_group_unread_text_size">6.7sp</dimen>
+
+    <!-- CreateGroupActivity -->
+    <dimen name="create_group_content_icon_space">3.3dp</dimen>
+    <dimen name="item_create_group_title_school_space">0.7dp</dimen>
+    
+    <!-- SelectSchoolActivity -->
+    <dimen name="select_school_editor_margin">3.3dp</dimen>
+
+    <!-- SelectGradeActivity -->
+    <dimen name="select_grade_button_top">20dp</dimen>
+    <dimen name="item_select_grade_title_left_width">3.3dp</dimen>
+
+    <!-- AddGroupMemberActivity -->
+    <dimen name="add_group_member_toggle_button_width">28dp</dimen>
+    <dimen name="add_group_member_toggle_button_height">13.3dp</dimen>
+    <dimen name="add_group_member_button_top">30dp</dimen>
+
+    <!-- ClipCircleActivity -->
+    <dimen name="clip_circle_button_width">33.3dp</dimen>
+    <dimen name="clip_circle_button_height">20dp</dimen>
+
+    <!-- ClientActivity -->
+    <dimen name="client_content_list_divider_height">6.7dp</dimen>
+    <dimen name="client_editor_padding">5.3dp</dimen>
+    <dimen name="client_editor_height">23.3dp</dimen>
+    <dimen name="client_option_icon_height">24dp</dimen>
+    <dimen name="client_option_padding_top_bottom">5.3dp</dimen>
+    <dimen name="client_message_image_max_width">100dp</dimen>
+    <dimen name="client_face_grid_column_width">40dp</dimen>
+    <dimen name="client_speak_icon_size">66.7dp</dimen>
+    <dimen name="client_refreshable_view_icon_size">16.7dp</dimen>
+    <dimen name="item_face_img_size">17.3dp</dimen>
+    <dimen name="item_image_padding">2dp</dimen>
+    <dimen name="item_image_round">4.7dp</dimen>
+    <dimen name="item_client_system_background_corner">10dp</dimen>
+
+    <!-- 录音 -->
+    <dimen name="record_level_0_view_height">6.7dp</dimen>
+    <dimen name="record_level_1_view_height">13.3dp</dimen>
+    <dimen name="record_level_2_view_height">20dp</dimen>
+    <dimen name="record_level_3_view_height">26.7dp</dimen>
+    <dimen name="record_level_4_view_height">33.3dp</dimen>
+    <dimen name="record_level_5_view_height">40dp</dimen>
+    <dimen name="record_level_6_view_height">46.7dp</dimen>
+    <dimen name="record_level_7_view_height">53.3dp</dimen>
+    <dimen name="record_level_8_view_height">60dp</dimen>
+    <dimen name="record_level_9_view_height">66.7dp</dimen>
+    <dimen name="record_view_width">1.3dp</dimen>
+    <dimen name="record_horizontal_space">2dp</dimen>
+
+    <!-- GroupMemberInfoActivity -->
+    <dimen name="group_member_info_head_size">40dp</dimen>
+    <dimen name="group_member_info_half_head_size">20dp</dimen>
+    <dimen name="group_member_info_head_border_width">1.3dp</dimen>
+
+    <!-- SelectGroupMember -->
+    <dimen name="item_select_group_member_selected_icon_size">21.3dp</dimen>
+
+    <!-- ShowImageDialog -->
+    <dimen name="show_image_dialog_delete_icon_size">23.3dp</dimen>
+
+    <!-- SuggestionAndComplaintActivity -->
+    <dimen name="suggestion_and_complaint_editor_height">140dp</dimen>
+
+    <!-- AboutActivity -->
+    <dimen name="about_icon_size">32dp</dimen>
+
+    <!-- SystemNotificationListActivity -->
+    <dimen name="item_system_notification_list_icon_size">33.3dp</dimen>
+
+    <!-- PublishNotification -->
+    <dimen name="publish_notification_tip_content_space">6.7dp</dimen>
+    <dimen name="publish_notification_class_options_width">66.7dp</dimen>
+    <dimen name="publish_notification_options_spacing">3.3dp</dimen>
+
+    <!-- ShowImageDialog -->
+    <dimen name="show_image_dialog_image_top_bottom">33.3dp</dimen>
+
+    <!-- WelcomeActivity -->
+    <dimen name="welcome_dot_bottom">11.3dp</dimen>
+    <dimen name="welcome_dot_half_space">4.7dp</dimen>
+    <dimen name="welcome_dot_normal_size">3.3dp</dimen>
+    <dimen name="welcome_dot_selected_size">5.3dp</dimen>
+    <dimen name="welcome_page_3_button_bottom">53.3dp</dimen>
+    <dimen name="welcome_page_3_button_width">90dp</dimen>
+    <dimen name="welcome_page_3_button_height">33.3dp</dimen>
+    <dimen name="welcome_page_3_button_corner">4.7dp</dimen>
+    <dimen name="welcome_page_3_button_corner_width">0.7dp</dimen>
+
+</resources>
